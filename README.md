@@ -2,7 +2,7 @@
 ## 🎓 Sophomore NITA'23
 <h2 style="font-weight:bold;">UG Student Interested in Artificial Intelligence and Embedded System</h2>
 
-## Languages and Tools I Use
+## Languages and Tools
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="margin:10px;" alt="c" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="margin:10px;" width="40" height="40"/> </a> 
