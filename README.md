@@ -1,10 +1,20 @@
-<p align="right" width="400" >
-    <img src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/illustration.PNG" width="400" height="400" />
-</p>
+
+<p>
+<p align="left" >
 
 # Hi 👋, I'm Jagadeesh
 ## 🎓 Pre-Final Year Student NITA'23
 <h2 style="font-weight:bold;">UG Student Interested in Web Development and Artificial Intelligence</h2>
+</p>
+
+<p align="right" width="400" >
+    <img src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/illustration.PNG" width="400" height="400" />
+</p>
+
+</p>
+
+
+
 
 ## Languages and Tools
 <p align="left"> 
