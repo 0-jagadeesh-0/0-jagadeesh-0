@@ -1,4 +1,4 @@
-<p align="right">
+<p align="right" width="400" >
     <img src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/illustration.PNG" width="400" height="400" />
 </p>
 
