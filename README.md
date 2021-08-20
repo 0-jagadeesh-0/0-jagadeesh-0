@@ -1,5 +1,7 @@
 # Hi 👋, I'm Jagadeesh
-<img src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/illustration.PNG" width="200" height="200" />
+
+<img src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/illustration.PNG" width="400" height="400" padding-left="90%" />
+
 ## 🎓 Pre-Final Year Student NITA'23
 <h2 style="font-weight:bold;">UG Student Interested in Web Development and Artificial Intelligence</h2>
 
@@ -19,8 +21,8 @@
 
 - 🔬 Enthusiastic To learn Artificial Intelligence
 - 🔭 I’m currently working on **Anarc website** Robotics Club of NIT Agartala
-- ♟ Started Playing Chess Again
 - 📬 Reach me personally at **jagadeeshkondra1@gmail.com**
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0-jagadeesh-0&show_icons=true&bg_color=111111&text_color=ffffff&hide_border=1)
 
