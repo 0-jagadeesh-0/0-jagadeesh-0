@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jagadeesh
 
-<img src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/illustration.PNG" width="400" height="400" padding-left="90%" />
+<img  style="float: right;" src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/illustration.PNG" width="400" height="400" />
 
 ## 🎓 Pre-Final Year Student NITA'23
 <h2 style="font-weight:bold;">UG Student Interested in Web Development and Artificial Intelligence</h2>
