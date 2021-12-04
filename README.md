@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/contact.png" width="600" height="600" />
+<img align="right" src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/contact.png" width="500" height="500" />
 
 
 # Hi 👋, I'm Jagadeesh
