@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Jagadeesh
 
-## 🎓 MERN STACK || NITA'23
+## MERN STACK || NITA'23 🎓
 
 **UG Student Interested in Web Development and Artificial Intelligence**
 
