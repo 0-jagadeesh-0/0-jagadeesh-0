@@ -5,7 +5,8 @@
  
 # Hi 👋, I'm Jagadeesh
 
-<img align="right" src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/contact.png" width="400" height="400" />
+<!-- <img align="right" src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/contact.png" width="400" height="400" /> -->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## MERN STACK || NITA'23 🎓
 
