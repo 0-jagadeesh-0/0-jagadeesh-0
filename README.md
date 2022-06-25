@@ -34,7 +34,7 @@
 <!-- ![Jagadeesh's github stats](https://github-readme-stats.vercel.app/api?username=0-jagadeesh-0&show_icons=true&bg_color=111111&text_color=ffffff&hide_border=1) -->
 </p>
 
-<p>
+<p align="center" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-jagadeesh-0&bg_color=111111&text_color=ffffff&hide_border=1" />
 </p>
 
@@ -44,7 +44,7 @@
 
 ## Connect with me
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/0jagadeesh0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0_jagadeesh_0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jagadeesh-kondra-785384195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jagadeesh-kondra-785384195" height="30" width="40" /></a>
 <a href="https://fb.com/jagadeeshkondra1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jagadeeshkondra1" height="30" width="40" /></a>
