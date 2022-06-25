@@ -5,14 +5,13 @@
  
 # Hi 👋, I'm Jagadeesh
 
+<img align="right" src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/contact.png" width="400" height="400" />
+
 ## MERN STACK || NITA'23 🎓
 
 **UG Student Interested in Web Development and Artificial Intelligence**
 
 ## Languages and Tools
-<p align="right">
- <img src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/contact.png" width="500" height="500" />
- </p>
 <p align="center"> 
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="margin:10px;" alt="c" width="40" height="40"/>
