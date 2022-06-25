@@ -29,8 +29,9 @@
 - 🔭 Problem Solving.  
 - 📬 Reach me personally at **jagadeeshkondra1@gmail.com**
 
-
+<p align="center">
 ![Jagadeesh's github stats](https://github-readme-stats.vercel.app/api?username=0-jagadeesh-0&show_icons=true&bg_color=111111&text_color=ffffff&hide_border=1)
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-jagadeesh-0&bg_color=111111&text_color=ffffff&hide_border=1)](https://github.com/anuraghazra/github-readme-stats)
 
