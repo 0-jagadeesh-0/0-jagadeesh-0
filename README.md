@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/contact.png" width="500" height="500" />
+
 
 
 # Hi 👋, I'm Jagadeesh
@@ -9,6 +9,8 @@
 **UG Student Interested in Web Development and Artificial Intelligence**
 
 ## Languages and Tools
+
+<p>
 <p align="left"> 
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="margin:10px;" alt="c" width="40" height="40"/>
@@ -23,6 +25,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="margin:10px;" alt="react" width="40" height="40"/>
 
 </p>
+<p align="right">
+ <img src="https://github.com/0-jagadeesh-0/0-jagadeesh-0/blob/main/contact.png" width="500" height="500" />
+ </p>
+ </p>
 
 
 - 🔬 Enhancing web development skills.
