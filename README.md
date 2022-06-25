@@ -3,7 +3,7 @@
 
 
 # Hi 👋, I'm Jagadeesh
-## 🎓 Pre-Final Year Student NITA'23
+## 🎓 MERN STACK || NITA'23
 <h2 style="font-weight:bold;">UG Student Interested in Web Development and Artificial Intelligence</h2>
 
 
