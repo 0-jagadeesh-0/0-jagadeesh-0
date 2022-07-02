@@ -31,7 +31,8 @@
 
 
 - 🔬 Enhancing web development skills.
-- 🔭 Problem Solving.  
+- 🔭 Problem Solving.
+- [Follow me](https://linktr.ee/0jagadeesh0)  
 - 📬 Reach me personally at **jagadeeshkondra1@gmail.com**
 
 <p align="center">
