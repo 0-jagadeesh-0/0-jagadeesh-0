@@ -31,9 +31,8 @@
 
 
 - 🔬 Enhancing web development skills.
-- 🔭 Problem Solving.
-- [Follow me](https://linktr.ee/0jagadeesh0)  
-- 📬 Reach me personally at **jagadeeshkondra1@gmail.com**
+- 🔭 Problem Solving.  
+- 📬 **[Reach me personally](https://linktr.ee/0jagadeesh0)**
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=0-jagadeesh-0&show_icons=true&bg_color=111111&text_color=ffffff&hide_border=1" />
