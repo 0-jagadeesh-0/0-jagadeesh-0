@@ -15,11 +15,9 @@
 - [word-counter-cli](https://github.com/0-jagadeesh-0/word-counter-cli) – Command-line tool for word counting.
 - [Sorting-Visualizer](https://github.com/0-jagadeesh-0/Sorting-Visualizer) – Interactive algorithm visualizer built with JS and React.
 
-## 🔗 Find Me Online
-- 🌐 [Website](https://0jagadeesh0.com)
-- 💼 [LinkedIn](https://linkedin.com/in/0jagadeesh0)
--  𝕏 [𝕏](https://twitter.com/0jagadeesh0)
-
----
+## 🌐 Connect with Me
+- [Website](https://0jagadeesh0.com)
+- [LinkedIn](https://linkedin.com/in/0jagadeesh0)
+- [𝕏](https://x.com/0jagadeesh0)
 
 > “Later = Never.”
