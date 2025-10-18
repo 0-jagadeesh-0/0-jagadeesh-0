@@ -18,7 +18,7 @@
 ## 🔗 Find Me Online
 - 🌐 [Website](https://0jagadeesh0.com)
 - 💼 [LinkedIn](https://linkedin.com/in/0jagadeesh0)
-- 𝕏 [X](https://twitter.com/0jagadeesh0)
+-  𝕏 [𝕏](https://twitter.com/0jagadeesh0)
 
 ---
 
